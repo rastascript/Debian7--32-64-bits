@@ -6,8 +6,8 @@ wget https://raw.githubusercontent.com/rastascript/Debian7--32-64-bits/master/De
 
 # Menu
 
-https://raw.githubusercontent.com/rastascript/Debian7--32-64-bits/master/menu
+wget https://raw.githubusercontent.com/rastascript/Debian7--32-64-bits/master/menu
 
 # Update
 
-https://raw.githubusercontent.com/rastascript/Debian7--32-64-bits/master/update
+wget https://raw.githubusercontent.com/rastascript/Debian7--32-64-bits/master/update
